@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.qianjinweiai.cn/sitemap.xml
